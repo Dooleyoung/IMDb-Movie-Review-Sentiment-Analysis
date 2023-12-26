@@ -1,9 +1,9 @@
 Project Explanation: IMDb Movie Review Sentiment Analysis
 
-Introduction
+Introduction:
 This project aims to conduct sentiment analysis on movie reviews fetched from IMDb using IMDbPY and analyze the sentiment distribution. Sentiment analysis helps understand the opinions, emotions, and attitudes expressed in textual data. The selected movie for this analysis is "The Dark Knight."
 
-Methodology
+Methodology:
 
 Data Acquisition:
 The IMDbPY library is utilized to search for the movie by title and fetch its reviews. If the movie is found, its reviews are collected for analysis.
